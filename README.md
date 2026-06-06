@@ -2,10 +2,10 @@
 
 Welcome to my GitHub repository!
 
-I am **Muhammad Sahal Ayub**,  Electrical Engineering (Computing & AI) student at **UET Peshawar, Nowshera Campus**.
+I am **Muhammad Sahal Ayub**, Electrical Engineering (Computing & AI) student at **UET Peshawar, Nowshera Campus**.
 I am passionate about **Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development**.
 
-This repository showcases my C++ learning journey, academic projects, and engineering problem-solving work.
+This repository represents my C++ learning journey, academic labs, and engineering problem-solving projects.
 
 ---
 
@@ -15,47 +15,67 @@ This repository showcases my C++ learning journey, academic projects, and engine
 * 🏫 UET Peshawar, Nowshera Campus
 * 🤖 Interested in AI & Machine Learning
 * 🔐 Learning Cybersecurity & Ethical Hacking
-* 💻 Passionate about C++ Programming
+* 💻 Strong interest in C++ Programming
 * 📊 Exploring Data Science & Intelligent Systems
 
 ---
 
-## 📚 Repository: C++ Language Practice
+## 📚 C++ Repository Overview
 
-This repository contains my C++ learning work including:
+This repository contains my complete C++ learning practice including:
 
-* Basic C++ programs
-* Functions & recursion
-* Arrays & strings
-* Object-Oriented Programming (OOP)
-* Loops & conditions
+* Basic programs
+* Lab tasks
+* Assignments
 * Problem-solving exercises
-* Data structure basics
+* Mini projects
+* Concept-based implementations
 
-🔗 GitHub Repo:
+🔗 Repository:
 https://github.com/Bayaankhan/C-Plus-Plus-Language
+
+---
+
+## 📖 C++ Course Topics Covered
+
+This repository follows the official C++ lab structure:
+
+1. Installation of C++
+2. Data types, memory size and memory address in C++
+3. Comparison, logical and conditional operations in C++
+4. Switch statement
+5. While loop in C++
+6. For loop in C++
+7. One dimensional array in C++
+8. Two dimensional array in C++
+9. Introduction to function in C++
+10. More about functions in C++
+11. Strings in C++
+12. Pointers in C++
+13. Structures in C++
+14. Open Ended Lab (OEL)
 
 ---
 
 ## 🚦 CEP Project: Smart Traffic Control System (Peshawar)
 
-A **Complex Engineering Problem (CEP)** project built in C++ to simulate intelligent traffic management for major areas of Peshawar:
+A **Complex Engineering Problem (CEP)** project built in C++ for simulating smart traffic management in Peshawar:
 
 📍 University Road | Saddar | Ring Road | Hashtnagri
 
 ### 🔍 Features
 
-* Real-time vehicle monitoring at intersections
+* Real-time vehicle monitoring
 * Automatic traffic signal control (RED / YELLOW / GREEN)
 * Traffic classification (LOW / MODERATE / HIGH / CRITICAL)
-* Emergency Vehicle Mode (Ambulance, Fire Brigade, Police)
+* Emergency vehicle priority system
 * Automatic signal restoration after emergency
 * Traffic history logging using 2D arrays
 * Pointer and memory address demonstration
 
 ### 🛠️ Concepts Used
 
-* Structures & Arrays (1D & 2D)
+* Structures & Arrays
 * Functions
 * Pointers
 * Loops (for, while)
@@ -66,7 +86,7 @@ A **Complex Engineering Problem (CEP)** project built in C++ to simulate intelli
 
 ## 🎓 UET Grading System Project
 
-A C++ console-based system that calculates grades and GPA based on student marks.
+A C++ program that calculates student grades and GPA based on marks.
 
 ### 🔍 Features
 
@@ -74,7 +94,7 @@ A C++ console-based system that calculates grades and GPA based on student marks
 * Grade calculation (A, B, C, D, F)
 * GPA calculation logic
 * Multiple subject support
-* Simple console-based interface
+* Console-based interface
 
 ### 🛠️ Concepts Used
 
@@ -88,11 +108,11 @@ A C++ console-based system that calculates grades and GPA based on student marks
 
 ## 🎯 Learning Goals
 
-* Improve C++ programming skills
-* Master Data Structures & Algorithms
-* Learn Artificial Intelligence & Machine Learning
-* Develop Cybersecurity knowledge
-* Build real-world engineering projects
+* Master C++ programming fundamentals
+* Strengthen Data Structures & Algorithms
+* Build AI & Machine Learning skills
+* Learn Cybersecurity fundamentals
+* Develop real-world engineering projects
 
 ---
 
@@ -108,16 +128,18 @@ https://github.com/Bayaankhan
 
 ---
 
-## ⭐ Future Plans
+## ⭐ Future Goals
 
 * Build AI/ML projects
 * Develop advanced C++ systems
-* Work on cybersecurity tools (ethical/defensive)
+* Work on cybersecurity projects (ethical/defensive)
 * Contribute to open source
 * Create real-world engineering solutions
 
 ---
 
-> “Learning never stops — every project is a step toward innovation.”
+> “Every line of code is a step toward becoming a better engineer.”
+
+⭐ If you like this repository, don't forget to star it!
 
 ⭐ If you like this repository, feel free to star it!
