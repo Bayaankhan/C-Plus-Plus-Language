@@ -1,87 +1,123 @@
-# 🚀 C++ Programming Language
+# 🚀 Muhammad Sahal Ayub – C++ Programming Portfolio
 
-Welcome to my C++ programming repository!
+Welcome to my GitHub repository!
 
-I'm **Muhammad Sahal Ayub nick name bayaan khan**, an Electrical Engineering (Computing & AI) student passionate about Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development. This repository contains my C++ learning journey, practice programs, and projects that help strengthen my programming and problem-solving skills.
+I am **Muhammad Sahal Ayub**, a 2nd semester Electrical Engineering (Computing & AI) student at **UET Peshawar, Nowshera Campus**.
+I am passionate about **Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development**.
+
+This repository showcases my C++ learning journey, academic projects, and engineering problem-solving work.
+
+---
 
 ## 👨‍💻 About Me
 
 * 🎓 Electrical Engineering (Computing & AI) Student
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 🔐 Interested in Cybersecurity & Ethical Hacking
-* 💻 Passionate about Software Development
-* 📊 Exploring Data Science and Intelligent Systems
+* 🏫 UET Peshawar, Nowshera Campus
+* 🤖 Interested in AI & Machine Learning
+* 🔐 Learning Cybersecurity & Ethical Hacking
+* 💻 Passionate about C++ Programming
+* 📊 Exploring Data Science & Intelligent Systems
 
-## 📚 Repository Contents
+---
 
-This repository includes:
+## 📚 Repository: C++ Language Practice
 
-* C++ Basics
-* Functions
-* Arrays and Strings
-* Loops and Conditional Statements
+This repository contains my C++ learning work including:
+
+* Basic C++ programs
+* Functions & recursion
+* Arrays & strings
 * Object-Oriented Programming (OOP)
-* Problem-Solving Programs
-* Data Structures & Algorithms
-* Practice Exercises
+* Loops & conditions
+* Problem-solving exercises
+* Data structure basics
 
-## 🛠️ Technologies Used
+🔗 GitHub Repo:
+https://github.com/Bayaankhan/C-Plus-Plus-Language
 
-* C++
-* GCC/G++
-* Visual Studio Code
-* Git & GitHub
-* Linux / Kali Linux
+---
 
-## 🚀 Getting Started
+## 🚦 CEP Project: Smart Traffic Control System (Peshawar)
 
-Clone the repository:
+A **Complex Engineering Problem (CEP)** project built in C++ to simulate intelligent traffic management for major areas of Peshawar:
 
-```bash
-git clone https://github.com/Bayaankhan/C-Plus-Plus-Language.git
-```
+📍 University Road | Saddar | Ring Road | Hashtnagri
 
-Navigate to the repository:
+### 🔍 Features
 
-```bash
-cd C-Plus-Plus-Language
-```
+* Real-time vehicle monitoring at intersections
+* Automatic traffic signal control (RED / YELLOW / GREEN)
+* Traffic classification (LOW / MODERATE / HIGH / CRITICAL)
+* Emergency Vehicle Mode (Ambulance, Fire Brigade, Police)
+* Automatic signal restoration after emergency
+* Traffic history logging using 2D arrays
+* Pointer and memory address demonstration
 
-Compile a program:
+### 🛠️ Concepts Used
 
-```bash
-g++ filename.cpp -o output
-```
+* Structures & Arrays (1D & 2D)
+* Functions
+* Pointers
+* Loops (for, while)
+* Conditional statements
+* switch-case logic
 
-Run the program:
+---
 
-```bash
-./output
-```
+## 🎓 UET Grading System Project
 
-## 🎯 Current Learning Focus
+A C++ console-based system that calculates grades and GPA based on student marks.
 
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Advanced C++
-* Cybersecurity
-* Ethical Hacking
+### 🔍 Features
 
-## 🌟 Career Goal
+* Input student marks
+* Grade calculation (A, B, C, D, F)
+* GPA calculation logic
+* Multiple subject support
+* Simple console-based interface
 
-My goal is to become an engineer who combines Artificial Intelligence, Cybersecurity, and Software Development to create secure and intelligent solutions for real-world problems.
+### 🛠️ Concepts Used
+
+* Conditional statements
+* Functions
+* Arrays
+* Loops
+* Basic arithmetic operations
+
+---
+
+## 🎯 Learning Goals
+
+* Improve C++ programming skills
+* Master Data Structures & Algorithms
+* Learn Artificial Intelligence & Machine Learning
+* Develop Cybersecurity knowledge
+* Build real-world engineering projects
+
+---
 
 ## 📫 Connect With Me
 
-### LinkedIn
+### 🔗 LinkedIn
 
 [www.linkedin.com/in/muhammad-sahal-ayub-989894343](http://www.linkedin.com/in/muhammad-sahal-ayub-989894343)
 
-### GitHub
+### 🔗 GitHub
 
 https://github.com/Bayaankhan
 
 ---
 
-⭐ If you find this repository helpful, don't forget to star it and follow my journey in AI, Cybersecurity, and Software Development!
+## ⭐ Future Plans
+
+* Build AI/ML projects
+* Develop advanced C++ systems
+* Work on cybersecurity tools (ethical/defensive)
+* Contribute to open source
+* Create real-world engineering solutions
+
+---
+
+> “Learning never stops — every project is a step toward innovation.”
+
+⭐ If you like this repository, feel free to star it!
