@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository!
 
-I am **Muhammad Sahal Ayub**, a 2nd semester Electrical Engineering (Computing & AI) student at **UET Peshawar, Nowshera Campus**.
+I am **Muhammad Sahal Ayub**,  Electrical Engineering (Computing & AI) student at **UET Peshawar, Nowshera Campus**.
 I am passionate about **Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development**.
 
 This repository showcases my C++ learning journey, academic projects, and engineering problem-solving work.
