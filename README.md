@@ -140,6 +140,4 @@ https://github.com/Bayaankhan
 
 > “Every line of code is a step toward becoming a better engineer.”
 
-⭐ If you like this repository, don't forget to star it!
-
 ⭐ If you like this repository, feel free to star it!
